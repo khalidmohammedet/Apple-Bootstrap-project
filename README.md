@@ -1,2 +1,2 @@
-# Apple-Bootsrtap-project
+# Apple-Bootstrap-project
 Evangadi phase I project
